@@ -1,0 +1,15 @@
+.container {
+    background-color: #ebebeb;
+    width:100vw - 40px;
+    height: 100%;
+    font-size: 30px;
+    padding: 20px;
+}
+.container-filters{
+    width: 100%;
+    height: 100px;
+    background: white;
+}
+.home-maincard{
+    display: flex;
+}

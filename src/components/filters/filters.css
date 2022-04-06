@@ -1,0 +1,28 @@
+.filters{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.filters-dropdowns{
+    display: flex;
+}
+.filters-single{
+    padding: 0 20px 0 0;
+}
+.filters-select{
+    border: solid 2px rgb(114, 114, 114);
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    padding: 0 10px;
+}
+.button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(68, 68, 68);
+    color: white;
+    margin-right: 10%;
+    
+}
